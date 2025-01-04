@@ -11092,9 +11092,7 @@ webpack-dev-middleware@^5.3.1:
     schema-utils "^4.0.0"
 
 webpack-dev-server@^4.9.0:
-  version "4.9.0"
-  resolved "https://registry.npmjs.org/webpack-dev-server/-/webpack-dev-server-4.9.0.tgz"
-  integrity sha512-+Nlb39iQSOSsFv0lWUuUTim3jDQO8nhK3E68f//J2r5rIcp4lULHXz2oZ0UVdEeWXEh5lSzYUlzarZhDAeAVQw==
+  version "4.9.1"
   dependencies:
     "@types/bonjour" "^3.5.9"
     "@types/connect-history-api-fallback" "^1.3.5"
