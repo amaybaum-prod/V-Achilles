@@ -6612,9 +6612,7 @@ jest-changed-files@^29.0.0:
     p-limit "^3.1.0"
 
 jest-circus@^29.1.2:
-  version "29.1.2"
-  resolved "https://registry.yarnpkg.com/jest-circus/-/jest-circus-29.1.2.tgz#4551068e432f169a53167fe1aef420cf51c8a735"
-  integrity sha512-ajQOdxY6mT9GtnfJRZBRYS7toNIJayiiyjDyoZcnvPRUPwJ58JX0ci0PKAKUo2C1RyzlHw0jabjLGKksO42JGA==
+  version "29.2.0"
   dependencies:
     "@jest/environment" "^29.1.2"
     "@jest/expect" "^29.1.2"
